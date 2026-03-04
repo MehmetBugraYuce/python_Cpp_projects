@@ -1,0 +1,2 @@
+The goal of this project is to create an AC circuit analysing tool.
+In doing so i will use C++.
